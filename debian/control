@@ -1,0 +1,12 @@
+Source: ros-kinetic-robotis-framework
+Section: misc
+Priority: extra
+Maintainer: pyo <pyo@robotis.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: http://wiki.ros.org/robotis_framework
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-robotis-framework
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-robotis-controller, ros-kinetic-robotis-device, ros-kinetic-robotis-framework-common
+Description: ROS packages for the robotis_framework (meta package)
