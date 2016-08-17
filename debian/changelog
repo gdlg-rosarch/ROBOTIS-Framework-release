@@ -1,8 +1,0 @@
-ros-kinetic-robotis-framework (0.1.0-0xenial) xenial; urgency=high
-
-  * make a meta-package
-  * Contributors: pyo
-
- -- pyo <pyo@robotis.com>  Thu, 11 Aug 2016 15:00:00 -0000
-
-
