@@ -1,0 +1,25 @@
+ros-kinetic-robotis-framework (0.2.1-0jessie) jessie; urgency=high
+
+  * Merge the changes and update
+
+ -- Pyo <pyo@robotis.com>  Tue, 22 Nov 2016 15:00:00 -0000
+
+ros-kinetic-robotis-framework (0.2.0-0jessie) jessie; urgency=high
+
+  * updated CHANGLOG.rst for minor release
+
+ -- Pyo <pyo@robotis.com>  Tue, 30 Aug 2016 15:00:00 -0000
+
+ros-kinetic-robotis-framework (0.1.1-0jessie) jessie; urgency=high
+
+  * updated the package information
+
+ -- Pyo <pyo@robotis.com>  Wed, 17 Aug 2016 15:00:00 -0000
+
+ros-kinetic-robotis-framework (0.1.0-0jessie) jessie; urgency=high
+
+  * make a meta-package
+
+ -- pyo <pyo@robotis.com>  Thu, 11 Aug 2016 15:00:00 -0000
+
+
