@@ -1,0 +1,41 @@
+ros-kinetic-robotis-framework-common (0.2.1-0wily) wily; urgency=high
+
+  * Merge the changes and update
+  * 
+    
+      * dependencies fixed. (Pull requests #26 <https://github.com/ROBOTIS-GIT/ROBOTIS-Framework/issues/26>)
+    
+  * 
+    
+      * modified dependency problem.
+    
+  * Contributors: Jay Song, Pyo, Zerom
+
+ -- Pyo <pyo@robotis.com>  Tue, 22 Nov 2016 15:00:00 -0000
+
+ros-kinetic-robotis-framework-common (0.2.0-0wily) wily; urgency=high
+
+  * updated CHANGLOG.rst for minor release
+  * rename ControlMode(CurrentControl -> TorqueControl)
+  * rename (port_to_sync_write_torque_ -> port_to_sync_write_current_)
+  * Contributors: Zerom, Pyo
+
+ -- Pyo <pyo@robotis.com>  Tue, 30 Aug 2016 15:00:00 -0000
+
+ros-kinetic-robotis-framework-common (0.1.1-0wily) wily; urgency=high
+
+  * updated the package information
+
+ -- Pyo <pyo@robotis.com>  Wed, 17 Aug 2016 15:00:00 -0000
+
+ros-kinetic-robotis-framework-common (0.1.0-0wily) wily; urgency=high
+
+  * modified the package information for release
+  * Setting the license to BSD.
+  * add SensorState
+    add Singleton template
+  * Contributors: Jay Song, Zerom, Pyo
+
+ -- pyo <pyo@robotis.com>  Thu, 11 Aug 2016 15:00:00 -0000
+
+
