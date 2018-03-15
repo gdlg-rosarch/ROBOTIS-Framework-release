@@ -1,0 +1,13 @@
+Source: ros-kinetic-robotis-device
+Section: misc
+Priority: extra
+Maintainer: Pyo <pyo@robotis.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-dynamixel-sdk, ros-kinetic-roscpp
+Homepage: http://wiki.ros.org/robotis_device
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-robotis-device
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-dynamixel-sdk, ros-kinetic-roscpp
+Description: The package that manages device information of ROBOTIS robots.
+ This package is used when reading device information with the robot information file from the robotis_controller package.
