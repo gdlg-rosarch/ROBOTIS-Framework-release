@@ -1,3 +1,30 @@
+## robotis_framework (kinetic) - 0.2.8-0
+
+The packages in the `robotis_framework` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release robotis_framework --track kinetic --rosdistro kinetic --edit` on `Tue, 20 Mar 2018 08:16:35 -0000`
+
+These packages were released:
+- `robotis_controller`
+- `robotis_device`
+- `robotis_framework`
+- `robotis_framework_common`
+
+Version of package(s) in repository `robotis_framework`:
+
+- upstream repository: https://github.com/ROBOTIS-GIT/ROBOTIS-Framework.git
+- release repository: https://github.com/ROBOTIS-GIT-release/ROBOTIS-Framework-release.git
+- rosdistro version: `0.2.7-0`
+- old version: `0.2.7-0`
+- new version: `0.2.8-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.12.1`
+- rosdistro version: `0.4.4`
+- vcstools version: `0.1.40`
+
+
 ## robotis_framework (kinetic) - 0.2.7-0
 
 The packages in the `robotis_framework` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release robotis_framework --track kinetic --rosdistro kinetic --edit` on `Thu, 15 Mar 2018 00:40:19 -0000`
